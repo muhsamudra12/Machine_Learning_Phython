@@ -1,9 +1,9 @@
 
 # Prediksi Popularitas Meme Berdasarkan Caption dan Metadata Menggunakan Machine Learning
 
-**Nama:** [Isi Nama Anda]  
-**NIM:** [Isi NIM Anda]  
-**Kelas:** [Isi Kelas Anda]  
+**Nama:** [Muhammad Afrille Samudra]  
+**NIM:** [A11.2023.15200]  
+**Kelas:** [A11.4402]  
 
 ---
 
@@ -101,7 +101,7 @@ Semua model dibungkus dalam pipeline dan diuji dengan train-test split (80:20).
 ### 🔄 Alur Proses
 ![Alur Model Pipeline](images/model_pipeline.png)
 
-> *Catatan: Pastikan file gambar disimpan dalam folder `images/` di repositori.*
+
 
 ---
 
