@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Halaman-1" id="8aE9xB2ryt58bF_XxoTg">
+    <mxGraphModel dx="983" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="16YzolC5Gc-QISQyv4lH-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16YzolC5Gc-QISQyv4lH-15" target="16YzolC5Gc-QISQyv4lH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="310" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16YzolC5Gc-QISQyv4lH-7" target="16YzolC5Gc-QISQyv4lH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="25" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-2" value="[&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dataset]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-6" value="[Evaluasi: Accuracy, F1-score, Conf Matrix]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="435" width="237" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="121" width="118.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16YzolC5Gc-QISQyv4lH-3" target="16YzolC5Gc-QISQyv4lH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-3" value="[Preprocessing]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="120" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16YzolC5Gc-QISQyv4lH-11" target="16YzolC5Gc-QISQyv4lH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="210" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-4" value="[TF-IDF + Metadata Features]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="220" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16YzolC5Gc-QISQyv4lH-5" value="[Model (LogReg / RF / XGB)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="177" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
