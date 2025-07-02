@@ -1,9 +1,9 @@
 
 # Prediksi Popularitas Meme Berdasarkan Caption dan Metadata Menggunakan Machine Learning
 
-**Nama:** [Isi Nama Anda]  
-**NIM:** [Isi NIM Anda]  
-**Kelas:** [Isi Kelas Anda]  
+**Nama:** [Muhammad Afrille Samudra]  
+**NIM:** [A11.2023.15200]  
+**Kelas:** [A11.4402]  
 
 ---
 
